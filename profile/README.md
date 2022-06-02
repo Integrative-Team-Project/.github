@@ -9,6 +9,9 @@ Backend/Server: [peer-review-api](https://github.com/Integrative-Team-Project/pe
 ## Project Management
 Kanban Board: [Github Project Board](https://github.com/orgs/Integrative-Team-Project/projects/2)
 
+## Development
+Development Workflow: [WORKFLOW.MD](https://github.com/Integrative-Team-Project/.github/blob/main/WORKFLOW.MD)
+
 ## Members
 - Ng Han Yi (2002437)
 - Tan Jia Jia (2002362)
