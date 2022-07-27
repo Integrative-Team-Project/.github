@@ -12,6 +12,9 @@ Kanban Board: [Github Project Board](https://github.com/orgs/Integrative-Team-Pr
 ## Development
 Development Workflow: [WORKFLOW.MD](https://github.com/Integrative-Team-Project/.github/blob/main/WORKFLOW.MD)
 
+## Architecture
+![Architecture Diagram](https://user-images.githubusercontent.com/19357352/181222235-ce90bada-0578-4afc-9cf1-6d1b0365bcc7.jpeg)
+
 ## Members
 - Ng Han Yi (2002437)
 - Tan Jia Jia (2002362)
